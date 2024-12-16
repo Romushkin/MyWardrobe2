@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Мой гардероб</string>
+    <string name="toolbar_title">Мой гардероб</string>
+    <string name="detail_activity_article_name">Название</string>
+    <string name="detail_activity_article_description">Описание</string>
+    <string name="main_activity_app_name">Мой гардероб</string>
+    <string name="item_recycler_view_article_name">Название</string>
+    <string name="item_recycler_view_article_description">Краткое описание</string>
+    <string name="update_dialog_article_name_edit_text_hint">Название</string>
+    <string name="update_dialog_article_description_edit_text_hint">Описание</string>
+    <string name="exit">Exit</string>
+    <string name="back">Назад</string>
+    <string name="start">К гардеробу</string>
+
+</resources>
